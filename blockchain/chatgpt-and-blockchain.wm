@@ -1,0 +1,20 @@
+// https://onlinewardleymaps.com/
+
+title ChatGPT and Blockchain
+
+component user [0.98, 0.48]
+
+component blockchain data storage [0.07, 0.54]
+component blockchain privacy controls[0.27, 0.37]
+component blockchain security and regulatory compliance [0.51, 0.48]
+component blockchain smartcontracts [0.37, 0.61]
+
+component ChatGPT analysis of smartcontracts for flaws [0.50, 0.15]
+component Getting smartcontract apprioved by legal [0.77, 0.28]
+component Using ChatGPT to turn contracts into english [0.70, 0.15]
+component Using ChatGPT to turn english into contracts [0.88, 0.09]
+
+
+Getting smartcontract apprioved by legal->user
+Using ChatGPT to turn contracts into english->Getting smartcontract apprioved by legal
+blockchain smartcontracts->Using ChatGPT to turn contracts into english
